@@ -1,6 +1,5 @@
 ### Hi there 👋
 
 
-- 🌱 I’m currently a postdoc at HKUST, learning software engineering and causality.
-- 📫 How to reach me: pmaab \[AT] cse \[DOT] ust \[DOT] hk
+- 🌱 I’m currently a faculty member at Zhejiang University of Technology.
 - 😄 Pronouns: he/him
